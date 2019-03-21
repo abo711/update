@@ -1,24 +1,9 @@
-﻿{"version_code":4,"content":"
-<p>تحديث 4.0</p>
+﻿{"version_code":5,"content":"
+<p>تحديث 4.1.0</p>
 
-<li>إضافة خيارات الخصوصية<li>
-<li>إضافة الخصوصية المخصصة للمجموعات وجهات الإتصال<li>
-<li>إضافة قطع النت عن الواتساب في الشاشة الرئيسية بدلا من الإعدادات<li>
-<li>إمكانية تحديد دردشات لا محدودة بدلا من ثلاث دردشات عند إعادة توجيه رسالة<li>
-<li>شكل جديد عند الضغط على معلومات جهات الإتصال أو المجموعات<li>
-<li>إصلاح الإنهيار عند إرسال فيديو أو حالة في أجهزة 7 وما فوق<li>
-<li>إصلاح الإنهيار عند إختيار بعض فقاعات الدردشة<li>
-<li>إصلاح الإنهيار عند إختيار بعض أيقونات الإشعارات<li>
-<li>إصلاحات أخرى<li>
+<li>الآن البرنامج لايتطلب ولا يطلب تحديث<li>
 
-<li>Added Privacy Options<li>
-<li>Added Custom Privacy to Groups & Contacts<li>
-<li>Added DND Mode on Main Screen<li>
-<li>Added Increased Message Forward Limit to Unlimited<li>
-<li>New Style to contact & Group info<li>
-<li>Fixed crash at Select Some Bubbles Icon<li>
-<li>Fixed crash at Select Some Notifications Icons<li>
-<li>Other Fixed<li>
+<li>Added Anti Expiry<li>
 
 
 ","url":"https://bit.ly/2XdT9FQ"
