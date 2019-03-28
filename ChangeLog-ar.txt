@@ -3,7 +3,7 @@
 
 <li>إصلاح مشكلة إشعار إنتهاء النسخة بعد ثلاثة أيام الآن البرنامج يعمل لفترة طويلة<li>
 
-<li>Added Anti Expiry<li>
+<li>Added Anti Expiry
 
 
 ","url":"https://bit.ly/2XdT9FQ"
