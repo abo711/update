@@ -1,4 +1,4 @@
-﻿{"version_code":6,"content":"
+﻿{"version_code":7,"content":"
 <p>تحديث 5.0</p>
 
 <li>التحديث للإصدار 2.19.81 آخر إصدار
