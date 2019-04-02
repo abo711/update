@@ -1,9 +1,48 @@
-﻿{"version_code":5,"content":"
-<p>تحديث 4.1.0</p>
+﻿{"version_code":6,"content":"
+<p>تحديث 5.0</p>
 
-<li>إصلاح مشكلة إشعار إنتهاء النسخة بعد ثلاثة أيام الآن البرنامج يعمل لفترة طويلة<li>
+<li>التحديث للإصدار 2.19.81 آخر إصدار
+<li>تصميم جديد للإعدادات
+<li>إضافة خيار لإظهار صحين القراءة بعد الرد على الرسالة (الخصوصية)
+<li>إضافة الخيار 3.5 لمشاركة الحالة بأعلى دقة
+<li>إضافة الخيار 3.6 لإرسال حالة مدتها 30 دقيقة بدلاً من 30 ثانية
+<li>إضافة الخيار 4.2 لمشاركة الصور بأعلى دقة
+<li>إضافة الخيار 4.3 لإرسال الصور بالجودة الأصلية
+<li>إضافة خيار 4.4 لإرسال فيديو بأي حجم (لا محدود)
+<li>إضافة خيار 4.5 لإرسال المقطع الصوتي الموسيقى بأي حجم (لا محدود)
+<li>إضافة خيار 4.6 لإرسال المستندات بأي حجم (لا محدود)
+<li>إضافة الخيار 8.5 لتغيير شكل معلومات جهات الإتصال أو المجموعات
+<li>تفعيل خيار من يمكنه إضافتي إلى المجموعات (سيتفعل قريبا من سيرفر الشركة)
+<li>تحسين خيار إرسال رسالة لرقم غير محفوظ
+<li>إصلاح خيار تعطيل الاشعارات عن توقيف الصوت عند الاستماع لملف صوتي
+<li>إصلاح خيار إخفاء الدردشات المؤرشفة
+<li>إصلاح خيار إخفاء الإسم والتاريخ عند نسخ رسالتين أو أكثر مرة واحدة
+<li>إصلاح مشكلة عند تثبيت تحديث يتم التوجيه لتسجيل الرقم مرة أخرى
+<li>إصلاح الإنهيار عند إرسال فيديو
+<li>إصلاح الإنهيار عند الضغط على مراسلة رقم ما من داخل مجموعة
+<li>إصلاحات أخرى
 
-<li>Added Anti Expiry
+<li>New Base Updated to 2.19.81 Latest Version
+<li>New style to Settings
+<li>Added Show Blue ticks after reply
+<li>Added Option 3.5 to resolution Quality when Sharing Status
+<li>Added Option 3.6 to increase Video Status Limit to 30 Minutes instead of 30 Seconds
+<li>Added Option 4.2 to resolution Quality when Sharing Images
+<li>Added Option 4.3 to Send Pics with Original height/width
+<li>Added Option 4.4 to Video Size Unlimited
+<li>Added Option 4.5 to Audio Size Unlimited
+<li>Added Option 4.6 to Documents Size Unlimited
+<li>Added Option 8.5 to Change contacts and groups info to New Style
+<li>Enable who can add me to groups
+<li>Enable All Hidden Features
+<li>Improved Send Unsave Number Option
+<li>fixed Disable Audio Playing Notification Option
+<li>fixed Hide Archived Chats Option
+<li>fixed Hide Date & Info Option
+<li>fixed crash at sending a video
+<li>fixed crash at Send to any member to inbox from any group
+<li>fixed crash Some Privacy Options
+other fixed
 
 
 ","url":"https://bit.ly/2XdT9FQ"
