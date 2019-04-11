@@ -1,7 +1,8 @@
-﻿{"version_code":6,"content":"
-<p>تحديث 5.0</p>
+{"version_code":7,"content":"
+<p>تحديث 5.5</p>
 
 <li>التحديث للإصدار 2.19.81 آخر إصدار
+<li>إضافة الخيار 1.7 لإخفاء أيقونة النت ونقل الخيار الى قائمة الخيارات
 <li>تصميم جديد للإعدادات
 <li>إضافة خيار لإظهار صحين القراءة بعد الرد على الرسالة (الخصوصية)
 <li>إضافة الخيار 3.5 لمشاركة الحالة بأعلى دقة
@@ -20,9 +21,12 @@
 <li>إصلاح مشكلة عند تثبيت تحديث يتم التوجيه لتسجيل الرقم مرة أخرى
 <li>إصلاح الإنهيار عند إرسال فيديو
 <li>إصلاح الإنهيار عند الضغط على مراسلة رقم ما من داخل مجموعة
+<li>إصلاح توقف النسخة عن الارسال أو إستقبال الرسائل في بعض الأجهزة
+<li>إصلاح الإنهيار عند عملة مكالمة فيديو
 <li>إصلاحات أخرى
 
-<li>New Base Updated to 2.19.81 Latest Version
+<li>New Base Updated to 2.19.81
+<li>Added Option 1.7 to Hide Net Icon
 <li>New style to Settings
 <li>Added Show Blue ticks after reply
 <li>Added Option 3.5 to resolution Quality when Sharing Status
@@ -42,7 +46,9 @@
 <li>fixed crash at sending a video
 <li>fixed crash at Send to any member to inbox from any group
 <li>fixed crash Some Privacy Options
-other fixed
+<li>fixed stop net in GAWA and GAModsApp
+<li>fixed crash at create video call
+<li>other fixed
 
 
 ","url":"https://bit.ly/2XdT9FQ"
