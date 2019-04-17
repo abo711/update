@@ -1,53 +1,34 @@
-{"version_code":7,"content":"
-<p>تحديث 5.5</p>
+{"version_code":8,"content":"
+<p>تحديث 6.0</p>
 
-<li>التحديث للإصدار 2.19.81 آخر إصدار
-<li>إضافة الخيار 1.7 لإخفاء أيقونة النت ونقل الخيار الى قائمة الخيارات
-<li>تصميم جديد للإعدادات
-<li>إضافة خيار لإظهار صحين القراءة بعد الرد على الرسالة (الخصوصية)
-<li>إضافة الخيار 3.5 لمشاركة الحالة بأعلى دقة
-<li>إضافة الخيار 3.6 لإرسال حالة مدتها 30 دقيقة بدلاً من 30 ثانية
-<li>إضافة الخيار 4.2 لمشاركة الصور بأعلى دقة
-<li>إضافة الخيار 4.3 لإرسال الصور بالجودة الأصلية
-<li>إضافة خيار 4.4 لإرسال فيديو بأي حجم (لا محدود)
-<li>إضافة خيار 4.5 لإرسال المقطع الصوتي الموسيقى بأي حجم (لا محدود)
-<li>إضافة خيار 4.6 لإرسال المستندات بأي حجم (لا محدود)
-<li>إضافة الخيار 8.5 لتغيير شكل معلومات جهات الإتصال أو المجموعات
-<li>تفعيل خيار من يمكنه إضافتي إلى المجموعات (سيتفعل قريبا من سيرفر الشركة)
-<li>تحسين خيار إرسال رسالة لرقم غير محفوظ
-<li>إصلاح خيار تعطيل الاشعارات عن توقيف الصوت عند الاستماع لملف صوتي
-<li>إصلاح خيار إخفاء الدردشات المؤرشفة
-<li>إصلاح خيار إخفاء الإسم والتاريخ عند نسخ رسالتين أو أكثر مرة واحدة
-<li>إصلاح مشكلة عند تثبيت تحديث يتم التوجيه لتسجيل الرقم مرة أخرى
-<li>إصلاح الإنهيار عند إرسال فيديو
-<li>إصلاح الإنهيار عند الضغط على مراسلة رقم ما من داخل مجموعة
-<li>إصلاح توقف النسخة عن الارسال أو إستقبال الرسائل في بعض الأجهزة
-<li>إصلاح الإنهيار عند عملة مكالمة فيديو
-<li>إصلاحات أخرى
+<li> إضافة الخيار 4.7 لزيادة عدد مشتركي الرسائل الجماعية إلى 1024 مشترك بدلا من 256 مشترك
+<li> إضافة الخيار 4.8 لزيادة عدد أعضاء المجموعة إلى 1024 مشترك بدلا من 256 مشترك
+<li> إضافة الخيار 1.7 لإخفاء أيقونة إيقاف الإنترنت من البار العلوي في الشاشة الرئيسية
+<li> إضافة الخيار 2.9 لإخفاء أيقونة الإتصال من البار العلوي داخل المجموعة
+<li> إضافة الخيار 2.10 لإخفاء أيقونة الإتصال من البار العلوي داخل دردشات جهات الإتصال
+<li> إضافة الخيار 8.6 لإخفاء نص المستعملة مرارا في شاشة إعادة التوجيه عند توجيه رسالة ما
+<li> إضافة الخيار 8.7 لإخفاء نص الدردشات الحديثة في شاشة إعادة التوجيه عند توجيه رسالة ما
+<li> إضافة الخيار 8.8 لإخفاء نص جهات الإتصال الأخرى في شاشة إعادة التوجيه عند توجيه رسالة ما
+<li> إمكانية إرجاع جميع إعدادات الإضافات والخصائص إلى الوضع الإفتراضي (اضغط الثلاث النقط يسار الشاشة)
+<li> إمكانية إرجاع جميع إعدادات الثيمات إلى الوضع الإفتراضي (اضغط الثلاث النقط يسار الشاشة)
+<li> تحسين خيار النسخ الإحتياطي والدخول المباشر
+<li> تحسين خيار تحديد جزء من النص
+<li> إصلاحات أخرى
+<li> تحياتي لكم أبوصالح العبيدي
 
 <li>New Base Updated to 2.19.81
-<li>Added Option 1.7 to Hide Net Icon
-<li>New style to Settings
-<li>Added Show Blue ticks after reply
-<li>Added Option 3.5 to resolution Quality when Sharing Status
-<li>Added Option 3.6 to increase Video Status Limit to 30 Minutes instead of 30 Seconds
-<li>Added Option 4.2 to resolution Quality when Sharing Images
-<li>Added Option 4.3 to Send Pics with Original height/width
-<li>Added Option 4.4 to Video Size Unlimited
-<li>Added Option 4.5 to Audio Size Unlimited
-<li>Added Option 4.6 to Documents Size Unlimited
-<li>Added Option 8.5 to Change contacts and groups info to New Style
-<li>Enable who can add me to groups
-<li>Enable All Hidden Features
-<li>Improved Send Unsave Number Option
-<li>fixed Disable Audio Playing Notification Option
-<li>fixed Hide Archived Chats Option
-<li>fixed Hide Date & Info Option
-<li>fixed crash at sending a video
-<li>fixed crash at Send to any member to inbox from any group
-<li>fixed crash Some Privacy Options
-<li>fixed stop net in GAWA and GAModsApp
-<li>fixed crash at create video call
+<li>Added Option 4.7 to Increase Broadcast List Size Limit to 1024 Participants instead of 256 Participants
+<li>Added Option 4.8 to Increase Groups Participants Size Limit to 1024 Participants instead of 256 Participants to
+<li>Added Option 1.7 to Hide Net Icon from Main Screen
+<li>Added Option 2.9 to Hide Group Call icon
+<li>Added Option 2.10 to Hide Contact Call icon
+<li>Added Option 8.6 to Hide Frequently Contacted Forwarded Screen at Forward Messages
+<li>Added Option 8.7 to Hide Recent Chats Forwarded Screen at Forward Messages
+<li>Added Option 8.8 to Hide other Contacts from Forwarded Screen at Forward Messages
+<li>Added Reset AlabidiMods to Default (click three dot menu)
+<li>Added Reset ThemesMods to Default (click three dot menu)
+<li>Improved Backup & Direct Entry
+<li>Improved make text selectable Option
 <li>other fixed
 
 
